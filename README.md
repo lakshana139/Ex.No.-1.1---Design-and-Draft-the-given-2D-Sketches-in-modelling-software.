@@ -12,36 +12,76 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
+# PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+**Step 1: Creating a New Sketch**
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+Open Autodesk Fusion 360 and select New Design. Click on Create Sketch and select the XY plane to start the drawing.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="242" height="30" alt="Screenshot 2026-11-16 013935" src="https://github.com/user-attachments/assets/93708baa-eddc-48ea-a145-509ec5d26a9c" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
 
-5.	Use inspect feature to measure the dimensions of sketch.
+**Step 2: Drawing Reference Lines and Circles**
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+Select the Line tool to draw horizontal and vertical construction lines. Use the Circle tool to draw the required circles according to the given diagram.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="680" height="482" alt="Screenshot 2026-11-16 014015" src="https://github.com/user-attachments/assets/5c561544-6409-40b4-ba76-2f76334e2911" />
+<img width="802" height="497" alt="Screenshot 2026-11-16 014050" src="https://github.com/user-attachments/assets/3576a24d-cfcc-47e4-ba34-df756a7f1370" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+**Step 3: Applying Dimensions**
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+Select the Sketch Dimension (D) tool and apply the required diameter, radius and distance values as specified in the given drawing.
+
+<img width="277" height="57" alt="Screenshot 2026-11-16 014813" src="https://github.com/user-attachments/assets/13db1366-6b3d-4828-bdf8-a75f573e467d" />
+
+
+**Step 4: Creating the Outer Profile**
+
+Use the Arc and Line tools to create the curved outer boundary of the component. Apply the required R64, R20 and R10 radii.
+
+<img width="478" height="146" alt="Screenshot 2026-11-16 015123" src="https://github.com/user-attachments/assets/ff7f94e1-60de-4fcc-92cb-efbc12b0eade" />
+
+
+**Step 5: Creating the Central Cut-out**
+
+Use the Circle and Arc tools to create the central opening with the required Ø40 dimension and R6 radius.
+
+
+
+**Step 6: Trimming Unwanted Portions**
+
+Select the Trim (T) tool and remove the unwanted portions of circles, arcs and lines to obtain the required shape.
+
+<img width="715" height="272" alt="Screenshot 2026-11-16 015640" src="https://github.com/user-attachments/assets/55756702-f906-4d1b-b70f-08bd4bf9f394" />
+
+
+
+**Step 7: Completing the Sketch**
+
+Check all dimensions and verify the final shape with the given engineering drawing. Click on Finish Sketch and save the completed design.
+
+**Screenshot 7: Final completed 2D sketch with dimensions.**
+
+
+<img width="132" height="102" alt="Screenshot 2026-11-16 015822" src="https://github.com/user-attachments/assets/d4cccfb2-6ef8-4c47-b698-88b3c60266ac" />
+
+
+# RESULT
+
+Thus, the given 2D mechanical component was successfully created using Autodesk Fusion 360 with the required dimensions and geometrical features.
 
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+
+<img width="1261" height="748" alt="Screenshot 2026-11-16 004404" src="https://github.com/user-attachments/assets/29914531-fb46-42a2-bfb2-b091e6d35135" />
 
 ## OUTPUT
+
+<img width="1919" height="955" alt="Screenshot 2026-11-16 004308" src="https://github.com/user-attachments/assets/6960d404-65ce-4ddc-b8a3-3dfaea9264f2" />
+
 
 
 ## RESULT
